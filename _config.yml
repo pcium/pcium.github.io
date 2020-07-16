@@ -99,9 +99,9 @@ author:
   location         : "Seoul, Korea"
   email            : "pcium@naver.com"
   links:
-    - label: "Official Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:arrive@hanyang.ac.kr"
+      # url: "mailto:arrive@hanyang.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
