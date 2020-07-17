@@ -1,7 +1,7 @@
 ---
 title: "Sample Post"
 categories:
-    -Sample
+    - Sample
 tags:
     - Sample
     - HYU
